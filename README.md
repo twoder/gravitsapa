@@ -1,4 +1,4 @@
-==Plukanian language==
+# Plukanian language
 * Koo — All words, with the following exceptions:
 * Kyu (pronounced kyew) — any profanity
 * Ketseh (pronounced "keh-ts'''e'''h", emphasis on the second syllable) — matches (or, rather, the chemicals ordinarily used on Earth for match heads)
