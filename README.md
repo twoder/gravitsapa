@@ -1,7 +1,7 @@
 # Plukanian language
 * Koo — All words, with the following exceptions:
 * Kyu (pronounced kyew) — any profanity
-* Ketseh (pronounced "keh-ts'''e'''h", emphasis on the second syllable) — matches (or, rather, the chemicals ordinarily used on Earth for match heads)
+* Ketseh (pronounced "keh-tseh", emphasis on the second syllable) — matches (or, rather, the chemicals ordinarily used on Earth for match heads)
 * Chatl — a currency unit
 * Tsak — a small bell worn on the nose to indicate the low social status of the wearer
 * Tentura and Antitentura — two opposite parts of the Universe. Some planets and galaxies exist in Tentura and some (including Earth) in Antitentura
